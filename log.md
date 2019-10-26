@@ -8,7 +8,7 @@ Some moments, I will feel like the smartest man alive. Others moments, I will fe
  
 Without further ado, I present **#100DaysofCode with _Anthony Gerrard_**.
 
-<img src="https://lh3.googleusercontent.com/3viPbSWDRmvVorilc0TghACggKHIwOfFhSDNBWDbiFEEyKVFqqqwogT7XhEy_OaBoachdL4r2UtXxSy6WOBBSzzk0DVI7S7LV1THoFs8CkKhWU_ElzewItZ12yPym4OHl_AK91pQwA=w1000-h758-no" alt="Headshot of Joe Warren">
+<img src="https://twitter.com/SwtMouthedTony/photo" alt="Anthony Gerrard Pic">
 
 <p align="center"><b>Follow me on Twitter </b><a href="http://www.twitter.com/swtmouthedtony">here</a>.</p>
 
