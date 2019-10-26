@@ -8,7 +8,7 @@ Some moments, I will feel like the smartest man alive. Others moments, I will fe
  
 Without further ado, I present **#100DaysofCode with _Anthony Gerrard_**.
 
-<img src="https://twitter.com/SwtMouthedTony/photo" alt="Anthony Gerrard Pic">
+<img src="https://avatars1.githubusercontent.com/u/16030492?s=460&v=4" alt="Anthony Gerrard Pic">
 
 <p align="center"><b>Follow me on Twitter </b><a href="http://www.twitter.com/swtmouthedtony">here</a>.</p>
 
